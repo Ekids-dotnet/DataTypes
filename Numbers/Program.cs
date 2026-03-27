@@ -1,4 +1,5 @@
-﻿//Рядки зеленого кольору - це коментарі, Ваша програма не читає те, що написано таким чином, тому ці коментарі використовуються для якоїсь додаткової інформації про код
+﻿//Рядки зеленого кольору - це коментарі, Ваша програма не читає те, що написано таким чином,
+//тому ці коментарі використовуються для якоїсь додаткової інформації про код
 //для інших розробників, які з ним працюють
 
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -35,7 +36,7 @@ int ageMinusFive = age - 5;
 int agePlus38 = age + 38;
 
 Console.WriteLine("Actual age: " + age);
-Console.WriteLine("Age five years age: " + ageMinusFive);
+Console.WriteLine("Age five years ago: " + ageMinusFive);
 Console.WriteLine("Age in 38 years: " + agePlus38);
 
 
@@ -93,7 +94,7 @@ int secondNumber = 2;
 
 int a = firstNumber - secondNumber; //Віднімаємо
 int b = firstNumber + secondNumber; //Додаємо
-int c = firstNumber * secondNumber; //Множиво
+int c = firstNumber * secondNumber; //Множимо
 int d = firstNumber / secondNumber; //Ділимо
 int e = firstNumber % secondNumber; //Знаходимо остачу після ділення
 
