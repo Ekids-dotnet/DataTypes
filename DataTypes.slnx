@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Boolean/Boolean.csproj" />
+  <Project Path="CharAndString/CharAndString.csproj" />
+  <Project Path="InputOutput/InputOutput.csproj" />
+  <Project Path="Numbers/Numbers.csproj" />
+</Solution>
